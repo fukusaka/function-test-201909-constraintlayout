@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="buttonLabelText">Padding</string>
+</resources>
